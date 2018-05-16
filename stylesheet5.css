@@ -1,0 +1,26 @@
+.header{
+	background-color: #6cde6c;
+	color: white;
+	text-align: center;
+	padding: 40px;
+	font-family: calibri;
+}
+
+.row{
+
+}
+
+.col{
+	float: left;
+	width: 33.3%;
+	box-sizing: border-box;
+	padding: 3%;
+}
+
+img{
+	max-width: 100%;
+}
+
+body{
+	margin: 0;
+}
